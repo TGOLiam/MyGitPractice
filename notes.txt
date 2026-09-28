@@ -1,0 +1,3 @@
+- I learned how to stage and commit changes using git add and git commit.
+- I learned how to create and switch between branches with git branch and git switch.
+- I learned how to view a project’s change history using git log.
